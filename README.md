@@ -10,6 +10,7 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
 **Skills used**
 
 .Excel
+
 .Power Querry: Data cleaning and transformation
 
 .Power Pivot: Data modeling
