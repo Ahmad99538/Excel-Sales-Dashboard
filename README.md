@@ -66,7 +66,7 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
   - Profit by Product
   - Profit by Salesperson
   - Profit by Region
-  - 
+    
 
 **Dashboard Insights**
 
