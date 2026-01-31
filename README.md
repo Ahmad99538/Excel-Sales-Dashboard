@@ -60,8 +60,11 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
 - Four PivotTables were created using the Data Model:
 
   -Total: shows Total Revenue, Total Cost, and Total Profit
+  
   -Best Salesperson: ranks salespeople by profit (descending)
+  
   -Best Product: ranks products by profit (descending)
+  
   -Best Region: ranks regions by profit (descending)
      
 - A dashboard with three charts and the main KPIs was created using the PivotTables:
