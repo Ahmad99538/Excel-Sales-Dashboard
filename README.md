@@ -75,8 +75,17 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
 - The **top salespeople** are ranked based on profit contribution, allowing management to identify strong performers.
 - The **regional performance** analysis highlights which regions contribute the most to profitability.
 - The KPI section shows total revenue, total cost, total profit, and total quantity sold, providing quick insights for decision-making.
+  
 
 
 **Dashboard Preview**
 ![Dashboard Preview](Sales-Performance-Dashboard.png)
+
+
+
+**Conclusion**
+
+This project helped me practice the complete Excel BI workflow from raw data cleaning to dashboard reporting.  
+It reinforced my understanding of Power Query, Power Pivot, and DAX measures, and improved my ability to transform messy data into meaningful business insights.  
+
 
