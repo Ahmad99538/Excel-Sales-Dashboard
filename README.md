@@ -11,9 +11,13 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
 
 .Excel
 .Power Querry: Data cleaning and transformation
+
 .Power Pivot: Data modeling
+
 .DAX: Creating KPIs and measures
+
 .Pivot Tables:Data analysis and conclusions
+
 .Dashboard design and visualization
 
 
