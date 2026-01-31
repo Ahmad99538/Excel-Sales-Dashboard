@@ -72,3 +72,7 @@ This was my first Excel BI project. The dataset is small and fictional, but the 
 - The **regional performance** analysis highlights which regions contribute the most to profitability.
 - The KPI section shows total revenue, total cost, total profit, and total quantity sold, providing quick insights for decision-making.
 
+
+**Dashboard Preview**
+![Dashboard Preview](Sales-Performance-Dashboard.png)
+
